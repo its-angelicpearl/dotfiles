@@ -37,3 +37,8 @@ size = 15.0
 [font.normal] 
 family = 'JetBrains Mono Nerd Font'
 style = 'regular'
+
+# Config de la Ventana (i.e. transparencia)
+[window]
+opacity = 0.9
+decorations = 'transparent'
